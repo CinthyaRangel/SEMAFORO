@@ -10,6 +10,16 @@ Además en el semaforo de autos se incorpora la luz AMBAR mediante la cual se mu
 el tiempo en que la luz AMBAR estpa encendida depende del potenciometro. 
 
 Estructura física
+![alt text](https://github.com/CinthyaRangel/SEMAFORO/blob/master/Image%202.jpeg)
+
+Funcionando
+![alt text](https://github.com/CinthyaRangel/SEMAFORO/blob/master/Image%201.jpeg)
+
+Diagrama del circuito en fritzing
+![alt text](https://github.com/CinthyaRangel/SEMAFORO/blob/master/diagrama.jpg)
+
+
+
 
 
 
