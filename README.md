@@ -9,4 +9,7 @@ Cuándo el semaforo para los autos se encuentra en ROJO, el semaforo de los peat
 Además en el semaforo de autos se incorpora la luz AMBAR mediante la cual se muestra la transición de ROJO a VERDE, 
 el tiempo en que la luz AMBAR estpa encendida depende del potenciometro. 
 
+Estructura física
+https://github.com/CinthyaRangel/SEMAFORO/blob/master/Image%202.jpeg
+
 
